@@ -17,7 +17,7 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 
 @CrossOrigin
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api-1")
 public class ApiController1 {
 	
 	private final ApiService1 apiService1 = new ApiService1();
